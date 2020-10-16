@@ -98,3 +98,27 @@
     padding-right: 15px;
     padding-bottom: 25px;
 }
+
+footer{
+    width: 100%;
+    background-color: red;
+}
+footer ul{
+    width: 30%;
+    display: inline-block;
+}
+footer li{
+    color: white;
+}
+footer p{
+    color: white;
+}
+footer a{
+    color: white;
+}
+.creditos{
+    color: white;
+    text-align: center;
+    padding: 13px 0;
+    background-color: red;
+}
